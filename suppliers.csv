@@ -1,0 +1,51 @@
+supp_id,supp_name,supp_contact,supp_email,supp_phone,supp_addr,supp_city,supp_state,supp_country,supp_postal,lead_time_days,pay_terms,qual_score,rel_score,contract_start,contract_end,pref_carrier
+SUPP0001,Elite Associates,Mary Jackson,sales@associates.com,+1-747-944-1892,,Fort Worth,VA,USA,71028,56,Net 45,89,94.0,2021-04-23,2023-07-10,USPS
+SUPP0002,Dynamic Hardware,Joseph Rodriguez,contact@hardware.com,(515) 288-7289,4751 Oak Ln,Seattle,ID,USA,84528,43,Net 60,94,85.0,2021-04-14,2023-03-25,DHL
+SUPP0003,Continental Technologies,Jennifer Martinez,info@technologies.com,+1-766-282-3224,7816 Washington Blvd,Fort Worth,TX,USA,15374,9,Net 30,72,84.0,2021-11-24,2023-09-03,CMA CGM
+SUPP0004,Pacific Group,Mary Gonzalez,contact@group.com,7228679602,1102 Elm Dr,Boston,NV,USA,11787,57,Net 45,69,,2021-07-31,2022-08-16,J.B. Hunt
+SUPP0005,Universal Inc.,James Smith,uinc.@business.net,222-719-7016,1037 Elm Pkwy,Phoenix,VA,USA,92087,13,1/10 Net 30,67,74.0,2021-11-01,2023-08-30,J.B. Hunt
+SUPP0006,Integrated Supplies,Nancy Williams,sales@supplies.com,642-543-3948,1140 Washington St,Austin,RI,Canada,K2Q 1E4,20,COD,91,87.0,2022-04-19,2023-09-17,USPS
+SUPP0007,Dynamic Supply Co.,Jessica Hernandez,info@co..com,746-149-3529,452 Maple Rd,Philadelphia,ID,France,H6P 5G7,35,1/10 Net 30,85,83.0,2021-11-29,2023-03-16,J.B. Hunt
+SUPP0008,Integrated Industries,Linda Wilson,sales@industries.com,+1-845-904-5657,,Los Angeles,WA,USA,34590,19,Prepaid,85,92.0,2022-06-07,2024-08-06,XPO Logistics
+SUPP0009,International International,Elizabeth Rodriguez,info@international.com,(253) 428-1919,5279 Elm Ln,Denver,FL,China,M3S 9L9,35,Net 60,75,,2021-04-20,2023-03-24,J.B. Hunt
+SUPP0010,Pacific Inc.,David Wilson,contact@inc..com,904-650-8687,4151 Industrial St,Detroit,NV,USA,57227,28,1/10 Net 30,67,96.0,2022-05-05,2023-08-05,CMA CGM
+SUPP0011,National Partners,Nancy Wilson,info@partners.com,3317579556,2971 Cedar Blvd,Denver,MS,USA,36213,52,1/10 Net 30,70,67.0,2022-06-02,2024-10-19,J.B. Hunt
+SUPP0012,Allied Inc.,Charles Wilson,contact@inc..com,8799693517,8073 Cedar Pl,New York,NC,USA,6354,4,COD,72,68.0,2021-06-30,2023-10-24,Maersk
+SUPP0013,Continental Solutions,Jennifer Thomas,csolutions@outlook.com,+1-872-470-5526,4860 Pine Park,Dallas,NE,USA,74786,32,Net 60,74,95.0,2021-08-06,2023-09-15,CMA CGM
+SUPP0014,Pacific Logistics,Susan Taylor,info#logistics.com,2661361669,8486 Oak Pkwy,San Francisco,SD,USA,37767,55,Net 45,98,74.0,2022-02-18,2023-10-08,UPS
+SUPP0015,Elite Electronics,James Davis,eelectronics@gmail.com,(299) 466-1901,,San Jose,GA,USA,59892,35,1/10 Net 30,73,86.0,2021-06-29,2023-11-13,J.B. Hunt
+SUPP0016,Metropolitan Associates,Jessica Lopez,contact@associates.com,+1-910-270-3252,2291 Hill Ave,Dallas,TX,USA,28393,6,2/10 Net 30,60,,2022-02-13,2024-01-12,J.B. Hunt
+SUPP0017,Superior Systems,Michael Rodriguez,info@systems.com,9612506272,5368 Main Pkwy,Portland,MO,Canada,F6O 4O5,33,Net 60,100,72.0,2021-11-28,2024-03-31,UPS
+SUPP0018,Premier Hardware,Sarah Martinez,info@hardware.com,763-495-6694,4272 Maple Pkwy,Jacksonville,LA,USA,82482,49,Prepaid,75,71.0,2021-10-25,2022-12-10,C.H. Robinson
+SUPP0019,Atlantic Corporation,Elizabeth Moore,sales@corporation.com,452-645-6269,5290 Oak Ave,San Jose,IN,USA,80769,11,2/10 Net 30,90,72.0,2022-01-09,2023-01-22,C.H. Robinson
+SUPP0020,Advanced Group,Richard Jackson,contact@group.com,(550) 936-8284,1168 Washington St,Phoenix,IL,China,K6I 8Y3,48,Net 30,69,98.0,2021-08-11,2023-09-02,USPS
+SUPP0021,Precision Corporation,James Hernandez,contact@corporation.com,8648032201,175 Pine Pkwy,Portland,MA,Germany,W4T 5Q7,27,Letter of Credit,90,90.0,2021-06-08,2023-03-06,C.H. Robinson
+SUPP0022,Global Solutions,Richard Anderson,gsolutions@hotmail.com,+1-812-725-8629,6511 Main Ave,Denver,WY,Japan,U7E 2D7,52,2/10 Net 30,72,84.0,2021-06-24,2024-04-20,
+SUPP0023,Innovative Distributors,John Wilson,sales@distributors.com,(985) 584-8148,3887 Industrial Park,Philadelphia,KY,USA,30522,7,Net 60,66,84.0,2021-12-25,2023-05-25,USPS
+SUPP0024,Continental Components,David Brown,contact@components.com,5038141154,2727 Washington Park,Philadelphia,HI,South Korea,E4L 2U7,29,Letter of Credit,83,82.0,2021-07-09,2023-12-06,C.H. Robinson
+SUPP0025,Strategic International,Patricia Smith,contact@international.com,+1-612-812-3510,5896 Industrial Rd,Detroit,GA,USA,39813,19,Letter of Credit,63,84.0,2021-09-08,2024-01-14,FedEx
+SUPP0026,Global Corporation,Linda Taylor,contact#corporation.com,+1-613-512-5176,2156 Elm Blvd,Seattle,DE,USA,81270,8,Letter of Credit,91,74.0,2021-04-11,2022-11-27,Maersk
+SUPP0027,Integrated Solutions,John Martinez,contact@solutions.com,6636095435,6375 Maple Dr,Charlotte,SD,USA,73659,3,1/10 Net 30,80,78.0,2021-10-05,2023-03-22,DHL
+SUPP0028,National Electronics,David Smith,sales@electronics.com,+1-868-757-4507,7659 Oak Blvd,Philadelphia,OR,Canada,K9T,56,Net 45,93,64.0,2022-06-06,2024-02-25,USPS
+SUPP0029,Continental Group,Linda Moore,cgroup@outlook.com,301-556-3226,3495 Hill Pl,Boston,MO,USA,30861,16,2/10 Net 30,96,62.0,2022-02-06,2023-12-12,UPS
+SUPP0030,Reliable Industries,Mary Brown,sales#industries.com,(530) 901-1975,8183 Cedar Blvd,Dallas,MS,USA,3746,30,COD,76,74.0,2021-10-25,2023-05-24,J.B. Hunt
+SUPP0031,Atlantic Systems,Joseph Martinez,sales@systems.com,812-420-7197,2336 Washington Dr,Portland,NY,USA,31049,47,2/10 Net 30,98,88.0,2021-05-24,2024-04-12,MSC
+SUPP0032,Dynamic Corporation,Jessica Lopez,info@corporation.com,398-347-9866,8616 Lake Park,San Jose,KS,USA,27936,46,COD,80,,2021-06-24,2022-12-25,MSC
+SUPP0033,Dynamic Logistics,Susan Smith,info@logistics.com,(103) 506-8149,5483 Cedar Rd,San Diego,CO,Taiwan,C7E 8Q2,42,2/10 Net 30,84,88.0,2021-11-11,2023-01-03,C.H. Robinson
+SUPP0034,Continental Electronics,Patricia Rodriguez,info@electronics.com,(339) 781-4122,2207 Industrial Park,San Diego,NY,Mexico,P1S,11,Letter of Credit,94,,2021-09-09,2023-09-05,C.H. Robinson
+SUPP0035,Superior Supplies,Karen Lopez,contact@supplies.com,(909) 745-9305,1460 Pine Rd,Nashville,IN,USA,80568,36,Net 30,63,68.0,2022-06-04,2023-07-12,XPO Logistics
+SUPP0036,Integrated Supply Co.,Sarah Garcia,contact@co..com,,364 Cedar Blvd,Fort Worth,IA,USA,26428,12,COD,84,97.0,2021-09-02,2024-01-11,C.H. Robinson
+SUPP0037,Premier Corporation,Sarah Wilson,sales@corporation.com,3082409833,4630 Pine Dr,El Paso,KS,USA,9355,38,Net 30,85,67.0,2021-08-09,2023-12-25,DHL
+SUPP0038,Elite Inc.,Susan Taylor,einc.@business.net,(379) 697-6131,1201 Lake Way,Jacksonville,AR,Japan,Z4T 1K7,43,Letter of Credit,68,60.0,2021-05-22,2022-08-27,FedEx
+SUPP0039,Premier Associates,Jennifer Gonzalez,passociates#outlook.com,6386385063,6390 Industrial Way,Austin,AK,South Korea,G6B 4A2,52,1/10 Net 30,75,82.0,2022-04-11,2023-09-25,MSC
+SUPP0040,Integrated Networks,Elizabeth Jones,inetworks@hotmail.com,5236379259,4073 Hill Rd,San Diego,TX,Mexico,H5D 3B4,51,Net 45,66,81.0,2022-02-09,2023-04-12,J.B. Hunt
+SUPP0041,International Corporation,Karen Taylor,info@corporation.com,,4309 Industrial Ave,New York,FL,France,Z5M 3A3,49,Net 30,91,98.0,2022-04-30,2023-07-16,USPS
+SUPP0042,National Networks,William Brown,sales@networks.com,+1-651-352-6482,4114 Elm Way,Washington,IA,Japan,F3P 9C3,24,Net 45,73,86.0,2021-12-20,2023-10-28,
+SUPP0043,Metropolitan Solutions,Susan Gonzalez,contact@solutions.com,6721526398,5965 Main Ln,Portland,NJ,Canada,K6K 1F7,53,1/10 Net 30,98,63.0,2021-03-11,2023-10-29,CMA CGM
+SUPP0044,Universal Distributors,Linda Miller,info@distributors.com,221-882-1776,8409 Elm Park,Los Angeles,NJ,USA,94173,40,Net 60,87,91.0,2022-01-15,2024-08-10,Maersk
+SUPP0045,Advanced Enterprises,Jennifer Martinez,sales@enterprises.com,8392667650,1119 Cedar Pl,Chicago,CT,USA,95316,34,Net 30,91,70.0,2021-01-12,2022-05-07,DHL
+SUPP0046,Superior Supply Co.,David Brown,info@co..com,+1-189-717-7434,6329 Cedar Ln,Los Angeles,TX,USA,21924,3,COD,77,93.0,2021-05-21,2022-07-29,CMA CGM
+SUPP0047,Integrated Distributors,David Jackson,contact@distributors.com,+1-815-861-6670,8955 Hill Park,Phoenix,WI,USA,67881,48,COD,80,94.0,2021-09-21,2023-06-04,DHL
+SUPP0048,Metropolitan International,Robert Davis,sales@international.com,(354) 685-9510,4555 Pine St,New York,NE,Canada,R1R 5M1,31,Net 30,68,69.0,2021-09-03,2024-03-08,DHL
+SUPP0049,National Corporation,Joseph Hernandez,ncorporation@example.org,6333745634,4162 Lake St,Washington,WI,USA,15411,29,2/10 Net 30,79,63.0,2021-07-14,2023-08-24,J.B. Hunt
+SUPP0050,Global Associates,Susan Wilson,gassociates@hotmail.com,(993) 769-7847,9184 Main Ave,Jacksonville,MN,USA,56075,23,Net 60,85,,2022-01-05,2023-11-21,MSC
